@@ -1,0 +1,180 @@
+.fira-sans-thin {
+  font-family: "Fira Sans", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.fira-sans-extralight {
+  font-family: "Fira Sans", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.fira-sans-light {
+  font-family: "Fira Sans", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.fira-sans-regular {
+  font-family: "Fira Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fira-sans-medium {
+  font-family: "Fira Sans", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.fira-sans-semibold {
+  font-family: "Fira Sans", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.fira-sans-bold {
+  font-family: "Fira Sans", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.fira-sans-extrabold {
+  font-family: "Fira Sans", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.fira-sans-black {
+  font-family: "Fira Sans", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.fira-sans-thin-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.fira-sans-extralight-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.fira-sans-light-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.fira-sans-regular-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.fira-sans-medium-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.fira-sans-semibold-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.fira-sans-bold-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.fira-sans-extrabold-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.fira-sans-black-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+
+
+/* Nav style */
+nav{
+    display: flex;
+}
+/* banner styles */
+
+.banner-content{
+  max-width: 620px;
+  height: 200px;
+  opacity: 100%;
+  font-weight: bold;
+  font-size: 56px;
+}
+.banner{
+  display:flex;
+  justify-content: space-between;
+  margin:0 auto;
+  border-radius: 4%;
+  max-width: 1280px;
+ 
+  height: 560px;
+  padding:100px;
+  opacity: 100%;
+  background-color:rgba(175, 238, 208, 0.658)
+
+}
+.banner-title{
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 16px;
+  
+  color:#757575;
+}
+.banner-profile-pic{
+  background-position:top left, bottom right;
+  width:474.03px;
+  height: 400px;
+  opacity:100%;
+  margin-top: 80px;
+}
+
+.btn-primary{
+  width: 270px;
+  height: 58.06px;
+  margin: 17px 34px 17px 34px;
+  font-weight: bold;
+  font-weight: bold;
+  border:none;
+  border-radius: 6%;
+  font-size:15px;
+  background-color: rgb(0, 100, 58);
+  color:white;
+}
+.section-title{
+  font-size: 40px;  
+  font-weight: bold;
+}
+.section-description{
+  font-size: 16px;
+  margin-top: 24px;
+  font-weight: 400;
+  color:dimgrey;
+}
+/* main styles */
+main{
+  max-width:1280px;
+  margin:0 auto;
+  margin-top:80px;
+}
